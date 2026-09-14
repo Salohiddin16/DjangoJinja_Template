@@ -1,0 +1,11 @@
+.env
+.env.*
+venv/
+.venv/
+minio/
+.idea/
+
+__pycache__/
+*.pyc
+
+db.sqlite3
